@@ -24,13 +24,13 @@ display: flex;
 justify-content: space-between;
 }
 
-.Header-left p , .Header-right p {
+.Header-left a , .Header-right a {
   color: rgb(36, 35, 35); 
   cursor: pointer;
   transition: color 0.15s;
   font-weight: 700;
 }
 
-.Header-left p:hover , .Header-right p:hover {
+.Header-left a:hover , .Header-right a:hover {
   color: gray;
 }
