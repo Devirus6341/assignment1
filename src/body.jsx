@@ -6,7 +6,7 @@ function Body(props) {
     
     <div className="assignment-body">
                 <p className="research-subTitle">{props.subTopic}</p>
-               { <p className="research-details">{props.body}</p>}
+               <p className="research-details">{props.body}</p>
             </div>
         </div>
 }
