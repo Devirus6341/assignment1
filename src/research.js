@@ -16,7 +16,7 @@ const research =  [
           subTopic: "Abstract",
             body: "In an era where technology is evolving rapidly, project management practices are undergoing a transformation. Emerging technologies such as Artificial Intelligence (AI), Blockchain, the Internet of Things (IoT), Cloud Computing, and Big Data Analytics are reshaping how projects are executed, monitored, and delivered. This paper explores the effect of these technologies on customer satisfaction, a critical success factor in project management. By analyzing technological advancements and their impact on project outcomes, efficiency, transparency, and communication, this study provides insights into how businesses can leverage innovation to enhance customer experiences. Furthermore, it highlights potential risks, challenges, and best practices for successfully integrating emerging technologies in project management."
     },
-    {
+    { 
         id: 4,
         subTopic: "1. Introduction",
         body: "Project management has always been about balancing scope, time, and cost while ensuring that customer expectations are met. Traditionally, projects were managed using manual methodologies, with heavy reliance on human expertise, documentation, and conventional tools. However, with the advent of digital transformation, emerging technologies have begun to redefine project management processes. Customer satisfaction is a primary determinant of project success, influencing repeat business, referrals, and organizational reputation. Today’s customers expect faster project delivery, real-time updates, data security, and seamless communication. Emerging technologies offer solutions to these demands, but their effectiveness depends on strategic implementation."
@@ -28,27 +28,27 @@ const research =  [
     },
     {
         id: 6,
-        subTopic: "Emerging Technologies in Project Management",
+        subTopic: "2. Emerging Technologies in Project Management",
         body: "Emerging technologies refer to innovative advancements that disrupt traditional practices. Some key technologies influencing project management include:1. Artificial Intelligence (AI) and Machine Learning .AI automates project planning, risk assessment, and resource allocation.Chatbots and AI-powered assistants improve communication and customer support.Predictive analytics help in forecasting project risks and improving decision-making."
     },
     {
         id:7,
-        subTopic:"1. Artificial Intelligence (AI) and Machine Learning",
+        subTopic:"2.1. Artificial Intelligence (AI) and Machine Learning",
         body:".AI automates project planning, risk assessment, and resource allocation.Chatbots and AI-powered assistants improve communication and customer support.Predictive analytics help in forecasting project risks and improving decision-making."
     },
     {
         id:8,
-        subTopic:"2. Blockchain Technology",
+        subTopic:"2.2. Blockchain Technology",
         body:"Blockchain enhances security, trust, and transparency in project transactions.Smart contracts automate agreement execution, reducing disputes and delays.",
     },
     {
         id:9,
-        subTopic:"3. Internet of Things (IoT)",
+        subTopic:"2.3. Internet of Things (IoT)",
         body:"IoT enables real-time tracking of project assets and operations.Sensors and connected devices improve monitoring and performance optimization."    
     },
     {
         id:10,
-        subTopic:"4. Cloud Computing",
+        subTopic:"2.4. Cloud Computing",
         body:"Cloud-based project management tools like Asana, Jira, and Microsoft Project enhance collaboration.Enables remote work, file sharing, and real-time data access."
     },
     {
